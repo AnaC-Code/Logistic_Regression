@@ -6,7 +6,7 @@ This repository contains implementations of logistic regression applied to both 
 * **Binary_Classification**
 * **Multiclass_Classification**
 
-This code is based on the tutorial: [Logistic Regression Tutorial]()
+This code is based on the tutorial: [Logistic Regression Tutorial](https://www.youtube.com/watch?v=zM4VZR0px8E&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=8)
 
 ## Project Structure
 
